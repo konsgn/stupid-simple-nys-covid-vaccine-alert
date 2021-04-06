@@ -5,8 +5,9 @@ A very bad script to check if there are any vaccine slots available in NYS.
 ## Running the script.
 
 1. Clone the repo.
-2. Run the script.
-3. Turn on amphetamine or otherwise to keep your machine running.
+2. Update addressTarget to your desired location
+3. Run the script.
+4. Turn on amphetamine or otherwise to keep your machine running.
 
 When Rick is singing, sprint to book your slot.
 
